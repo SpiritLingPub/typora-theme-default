@@ -1,2 +1,3 @@
 # typora-default
-This typora theme default
+
+![typora spiritling default](./spiritling.assets/images/readme.png)
